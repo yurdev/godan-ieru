@@ -1,0 +1,197 @@
+77.37: 入る [いる] /(v5r,vi) (mainly used in fixed expressions and compound verbs) (See 入る・はいる・1,気に入る,立ち入る・1) to get in/to go in/to come in/to flow into/to set/to set in/(P)/EntL1465580X/
+77.37: 入る(P);這入る [はいる] /(v5r,vi) (1) (ant: 出る・1) to enter/to go into/(2) to break into/(3) to join/to enroll/(4) to contain/to hold/to accommodate/(5) to have (an income of)/(6) to get/to receive/to score/(P)/EntL1465590X/
+56.31: 知る(P);識る [しる] /(v5r,vt) (1) to be aware of/to know/to be conscious of/to cognize/to cognise/(2) to notice/to feel/(3) to understand/to comprehend/to grasp/(4) to remember/to be acquainted with (a procedure)/(5) to experience/to go through/to learn/(6) to be acquainted with (a person)/to get to know/(7) to concern/(P)/EntL1420470X/
+28.41: 帰る(P);還る;歸る(oK) [かえる] /(v5r,vi) (1) (See 返る・1) to return/to come home/to go home/to go back/(2) (of a guest, customer, etc.) to leave/(3) {baseb} to get home/to get to home plate/(P)/EntL1221270X/
+25.08: 走る(P);奔る;趨る [はしる] /(v5r,vi) (1) to run/(2) to travel (movement of vehicles)/to drive/to flow (e.g. energy)/(3) to hurry to/(4) to retreat (from battle)/to take flight/(5) (esp. 奔る) to run away from home/(6) to elope/(7) (esp. 趨る) to tend heavily toward/(8) to flash/to streak/to shoot through (e.g. pain)/(P)/EntL1402540X/
+9.16: 減る [へる] /(v5r,vi) (ant: 増える) to decrease (in size or number)/to diminish/to abate/(P)/EntL1263120X/
+8.4: 振り返る(P);振りかえる;ふり返る;振返る [ふりかえる] /(v5r,vi) (1) to turn head/to look over one's shoulder/to turn around/to look back/(v5r,vt) (2) to think back (on)/to reminisce/to look back (on)/to reflect (on)/(P)/EntL1361290X/
+5.32: 陥る(P);落ち入る [おちいる] /(v5r,vi) (1) to fall into (e.g. a hole)/(2) to fall into (chaos, depression, dilemma, illness, etc.)/(3) to fall into (a trap, etc.)/(4) to fall/to surrender/to capitulate/(P)/EntL1216120X/
+4.33: 要る [いる] /(v5r,vi) (uk) to be needed/to be wanted/(P)/EntL1546640X/
+2.13: 散る [ちる] /(v5r,vi) (1) to fall (e.g. blossoms, leaves)/(2) to scatter/to be dispersed/(3) to disappear/to dissolve/to break up/(4) to spread/to run/to blur/(5) to die a noble death/(P)/EntL1303490X/
+1.82: 参る(P);詣る [まいる] /(v5r,vi) (1) (hum) (uk) to go/to come/to call/(2) to be defeated/to collapse/to die/(3) to be annoyed/to be nonplussed/(4) to be madly in love/(5) (See 墓参り) to visit (shrine, grave)/(P)/EntL1302070X/
+1.78: 滑る [ぬめる;なめる] /(v5r,vi) (1) (uk) to be slippery/to be slimy/(2) (ぬめる only) (uk) to behave charmingly/to walk merrily/EntL2016150X/
+1.74: 焦る [あせる] /(v5r,vi) to be in a hurry/to be impatient/to be flustered/to lose one's presence of mind/to be surprised/(P)/EntL1350780X/
+1.36: 持ち帰る(P);持帰る [もちかえる] /(v5r,vt) to bring back/to carry home/to take out (e.g. food)/(P)/EntL1658430X/
+1.36: 練る(P);煉る [ねる] /(v5r,vt) (1) to knead/to thicken into a paste (stirring over a flame)/(2) to polish (a plan, etc.)/to refine/to elaborate/to work out/(3) to train/to drill/to exercise/(4) (練る only) to gloss (silk)/to soften/to degum/(5) to tan (leather)/(6) (also written as 錬る) to temper (steel)/(v5r,vi) (7) (also written as 邌る) to walk in procession/to parade/to march/(P)/EntL1559140X/
+1.22: 蘇る(P);甦る(P);蘇える(io);甦える(io) [よみがえる] /(v5r,vi) (1) to be resurrected/to be resuscitated/to be rehabilitated/to be revived/to be refreshed/to be restored/(2) to be recalled (e.g. memories)/to be brought back/(P)/EntL1606020X/
+1.12: 気に入る(P);気にいる [きにいる] /(exp,v5r) to like/to be pleased with/to be delighted with/to take a liking to/to suit one's fancy/(P)/EntL1221740X/
+1.1: 返る(P);反る(P) [かえる] /(v5r,vi) (1) (esp. 返る) to return/to come back/to go back/(2) (See 裏返る・1) to turn over/(suf,v5r) (3) (after the -masu stem of a verb; esp. 返る) to become extremely/to become completely/(P)/EntL1512150X/
+0.65: 立ち入る;立入る;立ちいる [たちいる] /(v5r,vi) (1) to enter/to trespass/(2) to interfere/to meddle/to pry into/EntL1852100X/
+0.61: 突っ走る [つっぱしる] /(v5r,vi) to run swiftly/to dash/to rush/to race/EntL1456950X/
+0.55: 生き返る(P);生返る(P);生きかえる [いきかえる] /(v5r,vi) to revive/to come to oneself/to be restored to life/(P)/EntL1378600X/
+0.53: ひっくり返る(P);引っくり返る;引っ繰り返る;引繰り返る [ひっくりかえる] /(v5r,vi) (1) to be overturned/to be reversed/to turn over/to capsize/(2) to fall down/to tumble down/to topple over/to lie on one's back/(P)/EntL1169320X/
+0.53: 飛び散る;飛散る [とびちる] /(v5r,vi) to fly around/to scatter/EntL1485330X/
+0.5: 食い入る;食入る [くいいる] /(v5r,vi) to eat into/EntL1358250X/
+0.48: 滅入る [めいる] /(v5r,vi) to feel depressed/EntL1533010X/
+0.45: 思い知る [おもいしる] /(v5r,vt) to realize/to realise/EntL1309330X/
+0.43: 伏せる [ふせる] /(v1,vt) (1) to turn over (face down)/to lay face down/to lay upside down/(2) to point downwards (eyes, head, etc.)/to cast down (eyes)/(v1,vt,vi) (3) to lie (one's body) face down/to lie flat (on the ground)/(v1,vt) (4) to conceal/to hide/to keep secret/to place in hiding (e.g. troops for an ambush)/(v5r,vi) (5) (usu. 臥せる) (See 臥せる・ふせる) to lie down/to retire/to go to bed (with an illness)/(P)/EntL1500220X/
+0.41: 罵る [ののしる] /(v5r,vt) to abuse (verbally)/to curse at/to shout abuse at/to speak ill of/(P)/EntL1471520X/
+0.0: あきれ返る;呆れ返る;呆れかえる [あきれかえる] /(v5r,vi) to be utterly amazed/to be stunned/to be disgusted/EntL1586260X/
+0.0: うかがい知る;窺い知る;伺い知る;窺いしる [うかがいしる] /(v5r,vt) to perceive/to understand/EntL1172220X/
+0.0: お風呂に入る;御風呂に入る [おふろにはいる] /(exp,v5r) to take a bath/EntL1002600X/
+0.0: お腹が減る;お腹がへる [おなかがへる] /(exp,v5r) to become hungry/EntL2217150X/
+0.0: しょげ返る;悄気返る [しょげかえる] /(v5r,vi) to be dispirited/to be dejected/to lose heart/to become discouraged/to be crestfallen/to be utterly disheartened/to be despondent/EntL2768140/
+0.0: そっくり返る;反っくり返る [そっくりかえる] /(v5r,vi) to throw one's chest out/to hold one's head high/EntL2002340X/
+0.0: でんぐり返る [でんぐりがえる] /(v5r,vi) to turn a somersault/to turn over (topsy-turvy)/to turn head over heels/EntL1632130X/
+0.0: はらわたが煮えくり返る;腸が煮えくり返る;腸が煮え繰り返る;腸が煮えくりかえる [はらわたがにえくりかえる] /(exp,v5r) to be furious/to seethe with anger/to have one's blood boiling/EntL2223210/
+0.0: ひた走る;直走る [ひたはしる;ひたばしる] /(v5r,vi) (1) to run at full speed/to run and run/(2) to try one's hardest/EntL2673000/
+0.0: ひびが入る;罅が入る;皹が入る;皸が入る [ひびがはいる] /(exp,v5r) to get cracked/to develop a crack/to be fissured/EntL2223980X/
+0.0: ふんぞり返る;踏ん反り返る;ふん反り返る [ふんぞりかえる] /(v5r,vi) (1) to lie on one's back with legs outstretched/to recline/(2) to get cocky/to be arrogant/EntL1450290X/
+0.0: メスが入る [メスがいる] /(exp,v5r) (See メスを入れる・メスをいれる・1) to operate/to clean up/to inquire (into)/to take drastic measures/EntL2628160/
+0.0: 阿る;阿ねる(io) [おもねる] /(v5r,vi) (uk) to flatter/to play up to/to fawn on/to pander to/to cater to/EntL1150020X/
+0.0: 一を聞いて十を知る [いちをきいてじゅうをしる] /(exp,v5r) (id) to understand everything from only one part/to be perceptive/to be quick to understand/to be quick on the uptake/EntL2272410X/
+0.0: 一人悦に入る [ひとりえつにいる] /(exp,v5r) to be pleased with oneself/to chuckle with delight/EntL1904480X/
+0.0: 溢れかえる;あふれ返る;溢れ返る;溢れ反る(iK) [あふれかえる] /(v5r) to be awash with/to teem with/to be full of/EntL2143640X/
+0.0: 悦に入る [えつにいる] /(exp,v5r) to be pleased/to gloat/to glow with self-satisfaction/EntL1175260X/
+0.0: 押し入る(P);押入る;押しいる [おしいる] /(v5r,vi) to push in/to force into/to break in (e.g. into a house)/to intrude/(P)/EntL1180340X/
+0.0: 嫁入る [よめいる] /(v5r,vt) to wed/to marry a man/EntL1915190X/
+0.0: 家庭に入る [かていにはいる] /(exp,v5r) to join a household (as a housewife or househusband)/to become a housewife/to become a househusband/EntL2835766/
+0.0: 火照る [ほてる] /(v5r,vi) to feel hot/to flush/to burn/EntL1194010X/
+0.0: 過ちを観て斯に仁を知る [あやまちをみてここにじんをしる] /(exp,v5r) to observe the reasons and types of faults a person makes is to come to know whether they are virtuous or not/EntL2176330X/
+0.0: 我に返る [われにかえる] /(exp,v5r) (1) to come to one's senses/(2) to calm down/EntL2125250X/
+0.0: 臥せる [ふせる] /(v5r,vi) (See 伏せる・ふせる・5) to lie down/to retire/to go to bed (with an illness)/EntL1197670X/
+0.0: 懐に入る [ふところにはいる] /(exp,v5r) (1) to get in someone's pocket/to help oneself to someone's wallet/(2) to curry favour (favor)/to butter up/to make up to/to gain someone's trust/(3) {MA;sumo} to get in close to one's opponent/EntL2755650/
+0.0: 割って入る [わってはいる] /(exp,v5r) to force one's way through/EntL1614040X/
+0.0: 割れ返る [われかえる] /(v5r,vi) to break completely/to (figuratively) bring the house down/EntL1846770X/
+0.0: 滑り入る [すべりいる] /(v5r,vi) to slide into/EntL1208620X/
+0.0: 感じ入る [かんじいる] /(v5r,vi) to be impressed/to greatly admire/EntL1683000X/
+0.0: 感情に走る;感情にはしる [かんじょうにはしる] /(v5r,vi,exp) (id) (ant: 冷静になる) to act on one's emotions/to be carried away by one's feelings/to get emotional/EntL2557390/
+0.0: 間に入る [あいだにはいる] /(exp,v5r) to act as an intermediary/to step in/to come between/to intervene/to interject/EntL2830572/
+0.0: 気が散る;気がちる [きがちる] /(exp,v5r) to get distracted/to jump off the track/EntL2056660X/
+0.0: 気が滅入る;気がめいる [きがめいる] /(exp,v5r) (See 滅入る) to feel depressed/to be down/EntL2266670X/
+0.0: 起き返る [おきかえる] /(v5r) (See 起き上がる) to rise/to erect/to get up/EntL2461520/
+0.0: 鬼籍に入る [きせきにいる] /(exp,v5r) to pass away/to join the majority/EntL1869080X/
+0.0: 技神に入る [ぎしんにいる] /(exp,v5r) to be divinely skilled/EntL2433070X/
+0.0: 泣き入る;泣入る [なきいる] /(v5r,vi) (obsc) to burst into tears/to sob/to weep/EntL2150250X/
+0.0: 窮地に陥る [きゅうちにおちいる] /(exp,v5r) to be caught in a dilemma/to get into a scrape/EntL2820390/
+0.0: 拒否る [きょひる] /(v5r) (sl) to refuse/to reject/to deny/EntL2115960X/
+0.0: 競る(P);糶る [せる] /(v5r,vt) (1) to compete/(2) to bid/(3) to sell at auction/(P)/EntL1234050X/
+0.0: 強盗に入る;強盗にはいる [ごうとうにはいる] /(exp,v5r) to commit a robbery/to burgle/EntL1236510X/
+0.0: 恐れ入る;畏れ入る [おそれいる] /(v5r,vi) (1) to be sorry/to beg pardon/to be much obliged/to feel small/(2) to be grateful/(3) to be amazed/to be filled with awe/to be surprised/(4) to be disconcerted/to be embarrassed/EntL1236680X/
+0.0: 驚き入る [おどろきいる] /(v5r,vi) to be astonished/to be amazed/EntL1238670X/
+0.0: 曲がりくねる;曲りくねる [まがりくねる] /(v5r,vi) to bend many times/to turn and twist/to zigzag/EntL1603840X/
+0.0: 極端に走る [きょくたんにはしる] /(exp,v5r) to go to extremes/to go to excess/to go too far/EntL1870430X/
+0.0: 金が手に入る [かねがてにはいる] /(exp,v5r) to get hold of money/EntL1866210X/
+0.0: 愚痴る [ぐちる] /(v5r,vi) to complain/to grumble/EntL1851500X/
+0.0: 形から入る [かたちからはいる] /(exp,v5r) to start with the looks/to start (at the wrong end) by focusing on the superficial/EntL2826802/
+0.0: 血走る [ちばしる] /(v5r,vi) to become bloodshot/EntL1669890X/
+0.0: 見知る [みしる] /(v5r,vt) to recognise/to recognize/to know by sight/to become acquainted with/EntL1633190X/
+0.0: 見入る [みいる] /(v5r) to gaze at/to fix one's eyes upon/(P)/EntL1846590X/
+0.0: 見返る [みかえる] /(v5r,vi) to look back/EntL1846640X/
+0.0: 原点に帰る;原点に返る [げんてんにかえる] /(exp,v5r) to go back to the starting point/EntL2417210X/
+0.0: 個人的に知る [こじんてきにしる] /(exp,v5r) to know personally/to have personal knowledge of/EntL1264900X/
+0.0: 五本の指に入る;５本の指に入る [ごほんのゆびにはいる] /(exp,v5r) (id) to be within the top five/to be one of the five best/EntL2833935/
+0.0: 誤りに陥る [あやまりにおちいる] /(exp,v5r) to fall into error/EntL1857160X/
+0.0: 口に入る;口に入いる [くちにはいる] /(exp,v5r) (1) to ingest/to eat/to enter the mouth/(2) to be able to eat/EntL2128590/
+0.0: 口走る [くちばしる] /(v5r,vt) to blurt out/to let slip/to say inadvertently/to come out with (e.g. nonsense)/(P)/EntL1276570X/
+0.0: 攻め入る [せめいる] /(v5r,vi) to invade/EntL1279140X/
+0.0: 甲走る [かんばしる] /(v5r,vi) to make a shrill sound/EntL1850140X/
+0.0: 込み入る;込入る [こみいる] /(v5r,vi) (1) to be complicated/to be elaborate/(2) (arch) to push in/to be crowded/EntL1288780X/
+0.0: 左翼に走る [さよくにはしる] /(exp,v5r) to turn leftist/EntL1879240X/
+0.0: 才走る [さいばしる] /(v5r,vi) to be clever/to be quick-witted/to be precocious/EntL1294570X/
+0.0: 砕け散る [くだけちる] /(v5r) to be smashed up/EntL1295200X/
+0.0: 罪に陥る [つみにおちいる] /(exp,v5r) to slide into sin/EntL1894940X/
+0.0: 冴え返る;冴返る(io) [さえかえる] /(v5r,vi) (1) to be very clear/(2) to be keenly cold/to be cold and clear/EntL1297100X/
+0.0: 思い入る [おもいいる] /(v5r) to ponder/to contemplate/EntL1851320X/
+0.0: 耳に入る;耳にはいる [みみにはいる] /(exp,v5r) to hear of/EntL2399890/
+0.0: 自縄自縛に陥る [じじょうじばくにおちいる] /(exp,v5r) to be caught in one's own trap/EntL1318500X/
+0.0: 実が入る [みがはいる] /(exp,v5r) (1) to ripen/(2) (id) (See 身が入る) to give one's everything/to make one's best effort/EntL2835721/
+0.0: 煮えくり返る;煮え繰り返る;煮えくりかえる [にえくりかえる] /(v5r,vi) to boil/to seethe/EntL1851520X/
+0.0: 煮え返る [にえかえる] /(v5r,vi) to seethe/to ferment/to boil over/EntL1322500X/
+0.0: 若返る [わかがえる] /(v5r,vi) to be rejuvenated/to feel young again/EntL1324450X/
+0.0: 取って参る [とってまいる] /(v5r) (hum) to fetch (something)/EntL1326500X/
+0.0: 取り入る;取入る;取りいる [とりいる] /(v5r) to make up to/to curry favour/to butter up/EntL1326870X/
+0.0: 手に入る(P);手にはいる [てにはいる] /(exp,v5r) to obtain/to come into possession of/to get hold of/to get one's hands on/(P)/EntL1327220X/
+0.0: 首をひねる;首を捻る [くびをひねる] /(exp,v5r) to cock one's head in puzzlement/to tilt one's head in contemplation/to wrack one's brain/to think hard/EntL2253110/
+0.0: 女の味を知る [おんなのあじをしる] /(exp,v5r) to have carnal knowledge (of a woman)/EntL1863410X/
+0.0: 消え入る [きえいる] /(v5r,vi) to vanish/EntL1350070X/
+0.0: 照る [てる] /(v5r,vi) (1) to shine/(2) (from 面照る) (See 曇る・くもる・4) to look slightly upward (of a noh mask; indicating joy, etc.)/(P)/EntL1350860X/
+0.0: 鞘走る [さやばしる] /(v5r) (arch) to slip out of one's scabbard (of swords)/EntL2086450/
+0.0: 乗り入る [のりいる] /(v5r) to ride into (a place)/to drive into (a place)/EntL1355040X/
+0.0: 情けを知る [なさけをしる] /(exp,v5r) (1) to fall in love (for the first time)/to know love/(2) to be compassionate/EntL2572260/
+0.0: 寝入る;寝いる [ねいる] /(v5r,vi) to fall asleep/EntL1850250X/
+0.0: 寝返る [ねがえる] /(v5r,vi) to change sides/to double-cross/to betray/(P)/EntL1360310X/
+0.0: 心が洗われる [こころがあらわれる] /(exp,v5r) to feel refreshed/to feel soothed/EntL2833884/
+0.0: 神に入る [しんにいる] /(exp,v5r) to be divinely skilled/EntL2433060/
+0.0: 身が入る [みがはいる] /(exp,v5r) (id) to give one's everything/to make one's best effort/to be enthused/to put your back into it/EntL2261220/
+0.0: 畝る(P);畝ねる(io) [うねる] /(v5r,vi) (1) (uk) to wind (of a road, etc.)/to meander/to twist/(2) (uk) to undulate/to surge/to swell/to roll/to billow/(P)/EntL1374440X/
+0.0: 静まり返る;静まりかえる [しずまりかえる] /(v5r,vi) to fall completely silent/to become still as death/EntL1660110X/
+0.0: 切り入る [きりいる] /(v5r,vt) to cut into/to raid/EntL1384540X/
+0.0: 折れ返る;折返る [おれかえる] /(v5r,vi) to tell again and again/to repeat/to refrain/to turn up/to turn down/EntL1589520X/
+0.0: 絶え入る;絶入る [たえいる] /(v5r,vi) to expire/EntL1386740X/
+0.0: 先走る [さきばしる] /(v5r,vi) to be forward/to be impertinent/EntL1388050X/
+0.0: 染み入る [しみいる] /(v5r) (See 染み込む) to soak into/to permeate/EntL2476150/
+0.0: 煎る;炒る;熬る [いる] /(v5r,vt) to parch/to fry/to fire/to broil/to roast/to boil down (in oil)/EntL1391500X/
+0.0: 選に入る [せんにはいる] /(exp,v5r) to be selected/to be chosen/EntL1889010X/
+0.0: 想を練る [そうをねる] /(exp,v5r) to turn (a matter) over in one's mind/to think deeply/EntL1889770X/
+0.0: 掻き毟る;掻きむしる [かきむしる] /(v5r,vt) (uk) to tear off/to pluck/to scratch off/EntL1399960X/
+0.0: 相知る [あいしる] /(v5r) (1) to know each other/(2) to exchange vows/to love each other/EntL2125140/
+0.0: 大悟の境に入る [たいごのきょうにはいる;だいごのきょうにはいる] /(exp,v5r) {Buddh} to attain enlightenment/EntL2522080/
+0.0: 大衆に阿る [たいしゅうにおもねる] /(exp,v5r) to sell out to the masses/EntL1890590X/
+0.0: 恥じ入る [はじいる] /(v5r,vi) to feel ashamed/to be abashed/EntL1421620X/
+0.0: 恥を知る [はじをしる] /(exp,v5r) to know shame/to have a sense of shame/to be ashamed/EntL2402160/
+0.0: 茶目る [ちゃめる] /(v5r) to play pranks/EntL1422880X/
+0.0: 中へ入る [なかへはいる] /(exp,v5r) to go (come) inside/to step into/to enter/EntL1898770X/
+0.0: 仲に入る [なかにはいる] /(exp,v5r) to act as an intermediary/EntL1898790X/
+0.0: 虫唾が走る;虫酸が走る;虫ずが走る;むしずが走る [むしずがはしる] /(exp,v5r) to be disgusted/to be repulsed/to get the creeps/EntL1919520X/
+0.0: 跳ね返る;はね返る [はねかえる] /(v5r,vi) (1) to rebound/to recoil/to spring back up/to bounce back/(2) to splash/(3) to have a repercussion/to have a reciprocal effect/EntL1429680X/
+0.0: 痛み入る;痛みいる [いたみいる] /(v5r,vi) to be greatly obliged/to be very sorry/EntL1432700X/
+0.0: 天命を知る [てんめいをしる] /(exp,v5r) to turn 50/to reach 50 years of age/EntL2656580/
+0.0: 土に帰る [つちにかえる] /(exp,v5r) (See 土になる) to die/EntL1894780X/
+0.0: 討ち入る [うちいる] /(v5r,vi) to break into (a house to kill the master)/to raid/EntL1449940X/
+0.0: 逃げ帰る [にげかえる] /(v5r,vi) to scurry home/to run home/to fly back/EntL1850640X/
+0.0: 逃げ走る [にげはしる] /(v5r) to flee/to run away/EntL1450400X/
+0.0: 頭を捻る;頭をひねる [あたまをひねる] /(exp,v5r) to puzzle over/to think deeply about/to rack one's brains over (wrack)/EntL2453230/
+0.0: 堂にいる;堂に入る [どうにいる] /(exp,v5r) to become an expert/to be master at/EntL1453650X/
+0.0: 突んのめる [つんのめる] /(v5r,vi) (uk) (See のめる) to pitch forward/to fall forward/EntL1008240X/
+0.0: 肉が減る [にくがへる;ししがへる] /(exp,v5r) (See 肉が落ちる) to slim down/to lose weight/EntL2194020/
+0.0: 忍び入る [しのびいる] /(v5r,vi) to steal or sneak or slip into/EntL1847230X/
+0.0: 熱が入る [ねつがはいる] /(exp,v5r,vi) to become keen on/to get passionate about/EntL2255400/
+0.0: 年季が入る;年期が入る [ねんきがはいる] /(exp,v5r) to become experienced (after many years of practice)/EntL2593310/
+0.0: 捻る(P);拈る;撚る [ひねる] /(v5r,vt) (1) (uk) to twist/to wrench/to turn (a switch on or off, etc.)/to wring (a neck)/(2) (uk) to puzzle over/(3) (uk) to defeat easily/(P)/EntL1469530X/
+0.0: 納まり返る [おさまりかえる] /(v5r,vi) to be satisfied with one's position/to be quite content/EntL2060650X/
+0.0: 肌で知る [はだでしる] /(exp,v5r) to know something by direct experience/to know through the skin/EntL2541180/
+0.0: 反りくり返る [そりくりかえる] /(v5r,vi) (See そっくり返る) to throw one's chest out/to hold one's head high/EntL2796080/
+0.0: 反り返る;そり返る;反りかえる [そりかえる] /(v5r,vi) to warp/to bend backwards/to throw the head (or shoulders) back/to throw out the chest/EntL1480150X/
+0.0: 非行に走る [ひこうにはしる] /(exp,v5r) to turn to delinquency/to turn to crime (of a child)/EntL1484880X/
+0.0: 付け入る;つけ入る;付入る [つけいる] /(v5r,vi) to take advantage (of somebody's weaknesses, carelessness, etc.)/to impose on/EntL1496050X/
+0.0: 武を練る [ぶをねる] /(exp,v5r) (obsc) to train oneself in military arts/EntL1906990X/
+0.0: 舞い散る;舞散る [まいちる] /(v5r) to dance down (leaves, petals, etc.)/to fall as if dancing/EntL2701550/
+0.0: 風に翻る;風にひるがえる [かぜにひるがえる] /(exp,v5r) to flutter in the wind/to wave in the wind/EntL1865440X/
+0.0: 腹が減る [はらがへる] /(v5r) to become hungry/EntL1626200X/
+0.0: 覆る [くつがえる] /(v5r,vi) (1) to topple over/to be overturned/to capsize/(2) to be overruled/to be reversed/to be discredited/(P)/EntL1501500X/
+0.0: 沸き返る;沸きかえる [わきかえる] /(v5r,vi) (1) to boil up/to seethe/(2) to get excited/to be in an uproar/EntL1501690X/
+0.0: 分け入る [わけいる] /(v5r) to force one's way/to push through/EntL1503050X/
+0.0: 聞き知る;聞知る [ききしる] /(v5r,vt) to learn something through hearing/EntL2103470/
+0.0: 聞き入る;聴き入る;聞きいる;聴きいる;聞入る;聴入る [ききいる] /(v5r) to listen attentively to/to be lost in/EntL1505870X/
+0.0: 歩み入る [あゆみいる] /(v5r) to walk in (to)/EntL2259780/
+0.0: 呆れ入る [あきれいる] /(v5r,vi) to be dumbfounded/to be amazed/EntL2512680/
+0.0: 放る [ひる] /(v5r,vt) to expel (from the body)/to excrete/to defecate/to give birth/EntL2411430/
+0.0: 本題に入る [ほんだいにはいる] /(exp,v5r) to get down to business/to cut to the chase/to get straight to the point/to move on to the main subject/EntL2788150/
+0.0: 翻る(P);飜る [ひるがえる] /(v5r,vi) (1) to flutter (in the wind)/to wave/to flap/to fly/(2) to turn over/to flip over/(3) to suddenly change (attitude, opinion, etc.)/to suddenly switch/to alter/to flip/(P)/EntL1523350X/
+0.0: 磨り減る;擦り減る;すり減る [すりへる] /(v5r,vi) to be worn down/to be reduced/EntL2002280X/
+0.0: 味わい知る [あじわいしる] /(v5r) to taste and know/EntL1856400X/
+0.0: 魅入る [みいる] /(v5r,vi) (usu. used in the passive voice) to entrance/to possess/to enthrall/EntL1846980X/
+0.0: 目に入る [めにはいる] /(exp,v5r) to catch sight of/to come into view/to happen to see/EntL2396170/
+0.0: 与り知る [あずかりしる] /(v5r,vi) (oft. in the negative) to be aware of/to know about/to be concerned in/to have to do with/EntL2774800/
+0.0: 頼み入る [たのみいる] /(v5r,vt) to entreat/to request earnestly/EntL1849850X/
+0.0: 利に走る [りにはしる] /(exp,v5r) to be eager to pursue one's own interests/to think only of profit/EntL2130910/
+0.0: 裏返る;裏反る [うらがえる] /(v5r,vi) (1) to be turned inside out/(2) to betray/to double-cross/(3) to break into falsetto/to crack into falsetto/to squeak/to croak/to quaver/EntL1550640X/
+0.0: 裏目る [うらめる] /(v5r,vi) (col) {mahj} (See 裏目・うらめ・1) to make a mistake (e.g. in choosing one's melds)/EntL2753030/
+0.0: 立ち返る [たちかえる] /(v5r,vi) to come back (to)/to return to a starting point/EntL1551470X/
+0.0: 力が入る [ちからがはいる;りきがはいる] /(exp,v5r) (1) (See 力を入れる) to be filled with strength/to be filled with effort/to be under strain/to be under pressure/(2) to be enthusiastic about/(3) {sumo} to be tired (ironic)/EntL2670990/
+0.0: 冷え入る [ひえいる] /(v5r,vi) to become completely chilled/EntL1556680X/
+0.0: 連れ帰る;つれ帰る [つれかえる] /(v5r) to bring (someone) back home/to take (someone) back home/EntL2063130X/
+0.0: 老境に入る [ろうきょうにいる] /(exp,v5r) to be advanced in age/EntL1916870X/
+0.0: 詫び入る [わびいる] /(v5r,vi) to apologize sincerely/to apologise sincerely/EntL1849300X/
+0.0: 噎せ返る;むせ返る;咽せ返る [むせかえる] /(v5r,vi) to choke/to sob convulsively/to cough/EntL1565550X/
+0.0: 孵る [かえる] /(v5r,vi) to hatch out/EntL1566230X/
+0.0: 屁をひる;屁を放る [へをひる] /(v5r,exp) to fart/to break wind/EntL2727880/
+0.0: 抓る [つねる] /(v5r,vt) (uk) to pinch/EntL1567230X/
+0.0: 柝が入る [きがはいる] /(exp,v5r) (obsc) clapping with wooden clappers (to signal the beginning or end of a performance)/EntL2139870/
+0.0: 毟る;挘る [むしる] /(v5r,vt) to pluck/to pick/to tear/EntL1568540X/
+0.0: 沒る;没る [いる] /(v5r) (poet) (See 入る・いる) to set beyond the Western horizon (i.e. the sun)/EntL2209310/
+0.0: 謗る;譏る;誹る [そしる] /(v5r,vt) to slander/to libel/to criticize/to criticise/EntL1634550X/
+0.0: 軋る;轢る;輾る [きしる] /(v5r) (uk) to creak/to squeak/to grate/to grind/to rasp/EntL1573450X/
+0.0: 迸る [ほとばしる;とばしる] /(v5r,vi) (uk) to surge/to well up/to gush out/EntL1573660X/
+0.0: 挵る(oK) [せせる] /(v5r) (uk) to perform a small motion repetitively (e.g. picking or poking something)/EntL2138660X/

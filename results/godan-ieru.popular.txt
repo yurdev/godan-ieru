@@ -1,0 +1,23 @@
+入る [いる] /(v5r,vi) (mainly used in fixed expressions and compound verbs) (See 入る・はいる・1,気に入る,立ち入る・1) to get in/to go in/to come in/to flow into/to set/to set in/EntL1465580X/77.37/
+
+入る;這入る [はいる] /(v5r,vi) (1) (ant: 出る・1) to enter/to go into/(2) to break into/(3) to join/to enroll/(4) to contain/to hold/to accommodate/(5) to have (an income of)/(6) to get/to receive/to score/EntL1465590X/77.37/
+知る;識る [しる] /(v5r,vt) (1) to be aware of/to know/to be conscious of/to cognize/to cognise/(2) to notice/to feel/(3) to understand/to comprehend/to grasp/(4) to remember/to be acquainted with (a procedure)/(5) to experience/to go through/to learn/(6) to be acquainted with (a person)/to get to know/(7) to concern/EntL1420470X/56.31/
+帰る;還る;歸る(oK) [かえる] /(v5r,vi) (1) (See 返る・1) to return/to come home/to go home/to go back/(2) (of a guest, customer, etc.) to leave/(3) {baseb} to get home/to get to home plate/EntL1221270X/28.41/
+走る;奔る;趨る [はしる] /(v5r,vi) (1) to run/(2) to travel (movement of vehicles)/to drive/to flow (e.g. energy)/(3) to hurry to/(4) to retreat (from battle)/to take flight/(5) (esp. 奔る) to run away from home/(6) to elope/(7) (esp. 趨る) to tend heavily toward/(8) to flash/to streak/to shoot through (e.g. pain)/EntL1402540X/25.08/
+減る [へる] /(v5r,vi) (ant: 増える) to decrease (in size or number)/to diminish/to abate/EntL1263120X/9.16/
+陥る;落ち入る [おちいる] /(v5r,vi) (1) to fall into (e.g. a hole)/(2) to fall into (chaos, depression, dilemma, illness, etc.)/(3) to fall into (a trap, etc.)/(4) to fall/to surrender/to capitulate/EntL1216120X/5.32/
+要る [いる] /(v5r,vi) (uk) to be needed/to be wanted/EntL1546640X/4.33/
+散る [ちる] /(v5r,vi) (1) to fall (e.g. blossoms, leaves)/(2) to scatter/to be dispersed/(3) to disappear/to dissolve/to break up/(4) to spread/to run/to blur/(5) to die a noble death/EntL1303490X/2.13/
+参る;詣る [まいる] /(v5r,vi) (1) (hum) (uk) to go/to come/to call/(2) to be defeated/to collapse/to die/(3) to be annoyed/to be nonplussed/(4) to be madly in love/(5) (See 墓参り) to visit (shrine, grave)/EntL1302070X/1.82/
+焦る [あせる] /(v5r,vi) to be in a hurry/to be impatient/to be flustered/to lose one's presence of mind/to be surprised/EntL1350780X/1.74/
+練る;煉る [ねる] /(v5r,vt) (1) to knead/to thicken into a paste (stirring over a flame)/(2) to polish (a plan, etc.)/to refine/to elaborate/to work out/(3) to train/to drill/to exercise/(4) (練る only) to gloss (silk)/to soften/to degum/(5) to tan (leather)/(6) (also written as 錬る) to temper (steel)/(v5r,vi) (7) (also written as 邌る) to walk in procession/to parade/to march/EntL1559140X/1.36/
+蘇る;甦る;蘇える(io);甦える(io) [よみがえる] /(v5r,vi) (1) to be resurrected/to be resuscitated/to be rehabilitated/to be revived/to be refreshed/to be restored/(2) to be recalled (e.g. memories)/to be brought back/EntL1606020X/1.22/
+返る;反る [かえる] /(v5r,vi) (1) (esp. 返る) to return/to come back/to go back/(2) (See 裏返る・1) to turn over/(suf,v5r) (3) (after the -masu stem of a verb; esp. 返る) to become extremely/to become completely/EntL1512150X/1.1/
+伏せる [ふせる] /(v1,vt) (1) to turn over (face down)/to lay face down/to lay upside down/(2) to point downwards (eyes, head, etc.)/to cast down (eyes)/(v1,vt,vi) (3) to lie (one's body) face down/to lie flat (on the ground)/(v1,vt) (4) to conceal/to hide/to keep secret/to place in hiding (e.g. troops for an ambush)/(v5r,vi) (5) (usu. 臥せる) (See 臥せる・ふせる) to lie down/to retire/to go to bed (with an illness)/EntL1500220X/0.43/
+罵る [ののしる] /(v5r,vt) to abuse (verbally)/to curse at/to shout abuse at/to speak ill of/EntL1471520X/0.41/
+競る;糶る [せる] /(v5r,vt) (1) to compete/(2) to bid/(3) to sell at auction/EntL1234050X/0.0/
+照る [てる] /(v5r,vi) (1) to shine/(2) (from 面照る) (See 曇る・くもる・4) to look slightly upward (of a noh mask; indicating joy, etc.)/EntL1350860X/0.0/
+畝る;畝ねる(io) [うねる] /(v5r,vi) (1) (uk) to wind (of a road, etc.)/to meander/to twist/(2) (uk) to undulate/to surge/to swell/to roll/to billow/EntL1374440X/0.0/
+捻る;拈る;撚る [ひねる] /(v5r,vt) (1) (uk) to twist/to wrench/to turn (a switch on or off, etc.)/to wring (a neck)/(2) (uk) to puzzle over/(3) (uk) to defeat easily/EntL1469530X/0.0/
+覆る [くつがえる] /(v5r,vi) (1) to topple over/to be overturned/to capsize/(2) to be overruled/to be reversed/to be discredited/EntL1501500X/0.0/
+翻る;飜る [ひるがえる] /(v5r,vi) (1) to flutter (in the wind)/to wave/to flap/to fly/(2) to turn over/to flip over/(3) to suddenly change (attitude, opinion, etc.)/to suddenly switch/to alter/to flip/EntL1523350X/0.0/
